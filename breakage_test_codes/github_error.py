@@ -134,6 +134,10 @@ Philosophy: "Understand the blueprint before you lay the brick."
 # COMMAND:
 # git commit -m "Fix: Resolved [Error Name] in Phase X"
 
+
+# FIX: Pull the changes from GitHub first, merge them, then push.
+# COMMAND: git pull origin main
+
 # 2.3 Sync with the cloud: Upload your new commit to GitHub.
 # WHY: To ensure your online backup is identical to your local work.
 # COMMAND:
